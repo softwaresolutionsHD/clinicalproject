@@ -1,6 +1,6 @@
 
 package exceptionhandling;
-
+// this also finally block
 public class FinallyBlock {
       public static void main(String[] args) {
         int num []=new int [4];
